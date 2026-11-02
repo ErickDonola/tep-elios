@@ -1,0 +1,5 @@
+/*
+ * Tailwind v4: o import abaixo substitui as diretivas @tailwind base/components/utilities
+ * usadas no v3. O plugin @tailwindcss/vite (vite.config.ts) processa este import.
+ */
+@import "tailwindcss";
